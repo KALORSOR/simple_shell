@@ -17,9 +17,9 @@ _**General**_
 - Write a README with the description of your project
 - You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository. Format, see [Docker](https://github.com/moby/moby/blob/master/AUTHORS)
 
-**GitHub**
+**_GitHub_**
 
-_**There should be one project repository per group. If you and your partner have a repository with the same name in both your accounts, you risk a 0% score. Add your partner as a collaborator. **_
+_**There should be one project repository per group. The other members do not fork the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%**_
 
 
 - _**Shell team project by**_

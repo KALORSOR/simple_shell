@@ -1,8 +1,8 @@
 # simple_shell
-*C - Simple Shell*
+**C - Simple Shell**
 
-- *_Shell team project by_*
+- _**Shell team project by**_
 
-- *Godsway Alorsor & Nana Kwame Safo*
+- _@authors_ **Godsway Alorsor** & **Nana Kwame Safo**
 
 
